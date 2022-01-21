@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Recent graduate gaining experience in designing and developing scalable and highly available software­- as­- a­ service applications using Java. I am always open in working with new tech stack. Following are my current tech stack.
+Recent graduate gaining experience in designing and developing scalable software­- as­- a­ service applications using Java. I am always open in working with new technologies. The following are my current tech stack.
 Tech Stack:
 
 - Backend: Java, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
