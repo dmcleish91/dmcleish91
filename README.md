@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am a recent graduate gaining experience in designing and developing scalable software as service applications using Java. I am always open to working with new technologies. The following are my current tech stack.
+I am a recent graduate gaining experience in designing and developing scalable software as a service using Java. I am always open to working with new technologies. The following are my current tech stack.
 
 Tech Stack:
 
