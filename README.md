@@ -17,18 +17,16 @@ Here are some ideas to get you started:
 -->
 
 
-I am a recent graduate gaining experience in designing and developing scalable software as a service using Java. I am always open to working with new technologies. The following is my current tech stack.
+I am a junior developer gaining experience in designing and developing maintainable software. I am always open to working with new technologies. The following is my current tech stack.
 
 Tech Stack:
 
-- Backend: Java, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
-- Frontend: HTML5, CSS3, JavaScript, React
-- Database:  MySql, Oracle Sql, PostgreSQL, MongoDB
-- Build tools: Maven
-- Servers: Tomcat
-- Version Control: Git
-- IDE: Intellij IDEA, VS Code, Eclipse
+- Backend: Java, Spring Boot, Hibernate, Microservices
+- Frontend: React, Angular
+- Database:  MySql, PostgreSQL, Microsoft SQL
+- Build tools: Gradle, Maven
+- IDE: Intellij IDEA, VS Code
 - Operating System: Mac, Windows
 
 Soft Skills:
-- Problem Solving, TeamWork, Communication
+- Client interactions, Problem Solving, Teamwork, Communication
