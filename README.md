@@ -10,9 +10,11 @@ Junior developer creating maintainable and scalable software. Always open to wor
 - ⚡ I enjoy racing simulators and 3D Printing
 
 [![NextJs Badge](https://img.shields.io/badge/-NEXT.JS-FDF8F6?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FDF8F6)](#)
-[![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=3C873A)](#)
+[![Rust Badge](https://img.shields.io/badge/-Rust-b7410e?style=for-the-badge&labelColor=black&logo=rust&logoColor=b7410e)](#)
+
 
 Soft Skills:
 - Client interactions, Teamwork
