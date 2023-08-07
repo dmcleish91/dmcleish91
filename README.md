@@ -18,5 +18,3 @@ Junior developer creating maintainable and scalable software. Always open to wor
 
 Soft Skills:
 - Client interactions, Teamwork
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dmcleish91.dmcleish91&left_color=green&right_color=red)
