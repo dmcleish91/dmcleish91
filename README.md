@@ -7,7 +7,7 @@ Junior developer creating maintainable and scalable software. Always open to wor
 [![Mail Badge](https://img.shields.io/badge/-dmcleishjr-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dmcleishjr@gmail.com)
 
 - :floppy_disk: Currently working at Spectrum Inc
-- ⚡ I enjoy racing simulators and 3D Printing
+- ⚡ I enjoy racing and 3D Printing
 
 [![NextJs Badge](https://img.shields.io/badge/-NEXT.JS-FDF8F6?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FDF8F6)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
