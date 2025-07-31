@@ -1,9 +1,10 @@
-### Hi I'm Dwight <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hi, I'm Dwight 👋
 
+I'm a software developer focused on building maintainable and scalable software systems. I enjoy learning new technologies and solving real-world problems through code.
 
-Software developer creating maintainable and scalable software. Always open to working with new technologies.
+[![LinkedIn](https://img.shields.io/badge/-Dwight-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwight-mcleish-jr-202469192/)
+[![Email](https://img.shields.io/badge/-dmcleishjr-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dmcleishjr@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dwight-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwight-mcleish-jr-202469192/)
-[![Mail Badge](https://img.shields.io/badge/-dmcleishjr-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dmcleishjr@gmail.com)
-
-- :floppy_disk: Currently working at Spectrumware Inc
+- 💼 Currently at **Spectrumware Inc.**
+- 🛠️ Passionate about clean architecture and developer experience
+- 🧠 Always learning and experimenting with new tech
